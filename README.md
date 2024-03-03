@@ -27,7 +27,7 @@
 
 2. 使用者自行至想要接收通知的 Discord 頻道，產生 Webhook 網址 (對頻道按右鍵點選編輯頻道，進到整合頁面新增)。
 
-![discord-webhook](images/discord-webhook.png)
+    ![discord-webhook](images/discord-webhook.png)
 
 3. 在專案根目錄下創建 .env 檔案，可參考 .env.example 進行設定，將上述複製的內容設置於 .env 內
 
